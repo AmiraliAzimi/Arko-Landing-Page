@@ -66,37 +66,37 @@ export const features = [
     icon: <Check />,
     text: "AI Introduce Your Products",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Arko Ai based on the Information given is able to introduce your products to customers .",
   },
   {
     icon: <Check />,
     text: "AI answer Your Customers Question",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Arko Ai can recognize customers' messages and respond to them based on the information given to them .",
   },
   {
     icon: <Check />,
     text: "Manage Your Products In Your Direct",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "you can manage your products inventory and price b using the admin panel on instagram",
   },
   {
     icon: <Check />,
     text: "Arko Generate Invoice and Label",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "You are able to generate your customers Lable and Invoice by using Arko bot on telegram",
   },
   {
     icon: <Check />,
     text: "Showcase In Your Customers Direct",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "You can categorize your products and introduce them with all detail just like a Wabsite and The Showcase will Active on your customers direct and they are be able to Watch and Order your products",
   },
   {
     icon: <Check />,
     text: "Acsess to Customers Info",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "You can havr access to your customers information on Google Sheet app after they complete theme order .",
   },
 ];
 
@@ -104,22 +104,27 @@ export const checklistItems = [
   {
     title: "Save Your Time",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "",
   },
   {
     title: "Save More Money",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "",
   },
   {
-    title: "More Inforamation In Fastest Time",
+    title: "More Inforamation In Fastest Time and More Fully",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "",
   },
   {
     title: "You Can Connect it To your Website",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "",
+  },
+  {
+    title: "You Have an Acess to Your Customers Data",
+    description:
+      "",
   },
 ];
 

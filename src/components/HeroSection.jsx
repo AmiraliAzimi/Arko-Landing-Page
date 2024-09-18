@@ -12,9 +12,7 @@ const HeroSection = () => {
         </span>
       </h1>
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
-        Empower your creativity and bring your VR app ideas to life with our
-        intuitive development tools. Get started today and turn your imagination
-        into immersive reality!
+        A new way for Online Shops to sell better and Inroduce them product Better , Faster and More Fully
       </p>
       <div className="flex justify-center my-10">
 
